@@ -14,12 +14,10 @@
   border-left-style: solid;
   border-width: 8px;
   border-color: navy;
-}
-
-div.name {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
+  margin-bottom: -20px;
 }
 
 #contact-info {
@@ -30,6 +28,15 @@ div.name {
   border-width: 8px;
   font-size: 28px;
   border-color: red;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  margin-bottom: -20px;
+}
+
+h1 {
+  font-size: 20px;
+  margin-bottom: -10px;
 }
 
 #professional-experience {
