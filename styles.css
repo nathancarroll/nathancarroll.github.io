@@ -5,6 +5,13 @@
   padding: 10px 150px 10px 150px; 
 }
 
+#me {
+  background-color: white;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  margin-bottom: 20px;
+}
 
 #name {
   float: left;
@@ -14,11 +21,6 @@
   border-left-style: solid;
   border-width: 8px;
   border-color: navy;
-  background-color: white;
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  margin-bottom: 20px;
 }
 
 #contact-info {
@@ -29,11 +31,6 @@
   border-width: 8px;
   font-size: 26px;
   border-color: red;
-  background-color: white;
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  margin-bottom: 20px;
 }
 
 h1 {
