@@ -10,7 +10,6 @@
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  margin-bottom: 20px;
 }
 
 #name {
@@ -21,6 +20,8 @@
   border-left-style: solid;
   border-width: 8px;
   border-color: navy;
+  margin-bottom: 20px;
+  background-color: white;
 }
 
 #contact-info {
@@ -31,6 +32,8 @@
   border-width: 8px;
   font-size: 26px;
   border-color: red;
+  margin-bottom: 20px;
+  background-color: white;
 }
 
 h1 {
