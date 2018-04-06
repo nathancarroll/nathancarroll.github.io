@@ -6,3 +6,7 @@
   border-width: 8px;
   border-color: navy;
 }
+
+#contact-info {
+  float: left;
+}
