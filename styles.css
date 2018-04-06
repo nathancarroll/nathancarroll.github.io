@@ -6,7 +6,7 @@
 }
 
 #me {
-  background-color: green;
+  background-color: white;
   position: -webkit-sticky;
   position: sticky;
   top: 0;
@@ -21,7 +21,6 @@
   border-left-style: solid;
   border-width: 8px;
   border-color: navy;
-  margin-bottom: 20px;
 }
 
 #contact-info {
@@ -32,7 +31,6 @@
   border-width: 8px;
   font-size: 26px;
   border-color: red;
-  margin-bottom: 20px;
 }
 
 h1 {
@@ -46,7 +44,7 @@ h1 {
   border-width: 8px;
   border-color: yellow;
   clear: left;
-  z-index: -1;
+  z-index: 1;
 }
 
 #education {
