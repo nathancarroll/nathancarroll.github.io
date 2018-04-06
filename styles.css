@@ -1,4 +1,6 @@
-#contact-info {
-  text-align: center;
-  color: blue;
+#name {
+  text-align: left;
+  border-left-style: solid;
+  border-width: 8px;
+  border-color: navy;
 }
